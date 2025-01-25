@@ -1,0 +1,23 @@
+body{
+    background-color: #E8EAEB;
+}
+
+.titulo-contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+.titulo-contenedor img {
+    margin:10px 10px 0 10px;
+    height: 100px;
+    width: 99.5%;
+}
+
+.titulo{
+    
+    padding: 10px;
+    background-color: #481E14;
+    color: #F2613F;
+    text-align: center;
+    width: 98%;
+}
